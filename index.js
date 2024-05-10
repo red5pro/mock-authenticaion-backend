@@ -17,7 +17,7 @@ var app = express();
 /*
 *   HOST
 *
-replace "locahost" with your server url
+* replace "locahost" with your server url
 */
 var host = "localhost";
 /*
