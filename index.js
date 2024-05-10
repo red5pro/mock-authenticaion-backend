@@ -18,7 +18,7 @@ var app = express();
 *   HOST
 *
 */
-var host = "104.236.193.72";
+var host = "10.1.0.143";
 /*
 *   PORT
 *
